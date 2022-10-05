@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-mwas
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Android
+- 🌱 I’m currently learning ... Software,Web, Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
