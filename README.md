@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @David-mwas
+- 👋 Hi, I’m @David-mwas upcoming Fullstack Software developer
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Software,Web, Android
-- 💞️ I’m looking to collaborate on c,c++,java,js,web projects
+- 💞️ I’m looking to collaborate on c,c++,java,js,python,php,web projects
 - 📫 How to reach me dmwas704@gmail.com
 
 <!---
