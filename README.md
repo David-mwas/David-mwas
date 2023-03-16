@@ -17,7 +17,7 @@
 [![](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)
 
 ### </Random Dev Quote>
-![](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=David-mwas&icon=0&color=6)](https://visitcount.itsvg.in)
