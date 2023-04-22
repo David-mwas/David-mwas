@@ -1,5 +1,7 @@
 💫 </About Me>
 
+<a href="https://app.daily.dev/David-mwas"><img src="https://api.daily.dev/devcards/04927ed8b50d424e87ea66f2d49be07b.png?r=ygl" width="400" alt="David Mwas's Dev Card"/></a>
+
 👋 Hi, I’m @David-mwas upcoming Fullstack Software developer<br>👀 I’m interested in ... programming<br>🌱 I’m currently learning ... Software,Web, React, React-native<br>💞️ I’m looking to collaborate on java,js,python,React, React-native projects<br>📫 How to reach me dmwas704@gmail.com<br><br>🚀</LetsConnect☕>
 
 
