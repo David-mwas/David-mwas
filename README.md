@@ -13,8 +13,9 @@
 # </GitHub Stats>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=David-mwas&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-mwas&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=David-mwas&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=David-mwas&theme=shades-of-purple&hide_border=false&include_all_commits=true&langs_count=8&layout=compact)
+# </Waka Time>
+[![David-mwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidMwas&theme=shades-of-purple&hide_border=false)](https://github.com/David-mwas/github-readme-stats)
 ##  </Latest Tweet>
 [![](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)
 
