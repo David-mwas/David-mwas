@@ -3,7 +3,7 @@
 [![An image of @davidmwas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidmwas)](https://holopin.io/@davidmwas)
 
 <!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/David-mwas/David-mwas/blob/main/devcard.svg" width="400" alt="David mwas Dev Card"/></a> -->
-👋 Hi, I’m @David-mwas upcoming Fullstack Software developer<br>👀 I’m interested in ... programming<br>🌱 I’m currently learning ... Software,Web, React, React-native<br>💞️ I’m looking to collaborate on java,js,python,React, React-native projects<br>📫 How to reach me dmwas704@gmail.com<br><br>🚀</LetsConnect☕>
+👋 Hi, I’m @David-mwas upcoming Fullstack Software developer<br>👀 I’m interested in ... programming, problem solving, creating solutions<br>🌱 I’m currently learning ... Software,Web, React, React-native, Nodejs, nextjs , MERN stack<br>💞️ I’m looking to collaborate on java,js,python,React, React-native projects,MERN stack projecs<br>📫 How to reach me dmwas704@gmail.com<br><br>🚀</LetsConnect☕>
 
 
 ## </Socials>
