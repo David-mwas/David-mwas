@@ -1,12 +1,9 @@
 💫 </About Me>
 
-# David-Mwas🚀🚀🚀
+# 👋 Hi, I’m @David-mwas
 
-👋 Hi, I’m @David-mwas upcoming Fullstack Software developer<br>👀 I’m interested in ... programming, problem solving, creating solutions<br>🌱 I’m currently learning ... Software,Web, React, React-native, Nodejs, nextjs , MERN stack<br>💞️ I’m looking to collaborate on java,js,python,React, React-native projects,MERN stack projecs<br>📫 How to reach me dmwas704@gmail.com<br><br>🚀</LetsConnect☕>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=David-mwas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+🚀🚀Upcoming Fullstack Software developer<br>
+👀 I’m interested in ... programming, problem solving, creating solutions<br>🌱 I’m currently learning ... Software,Web, React, React-native, Nodejs, nextjs , MERN stack<br>💞️ I’m looking to collaborate on java,js,python,React, React-native projects,MERN stack projecs<br>📫 How to reach me dmwas704@gmail.com<br><br>🚀</LetsConnect☕>
 
 <!-- [![An image of @davidmwas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidmwas)](https://holopin.io/@davidmwas) -->
 
@@ -32,9 +29,9 @@
 
 [![David-mwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidMwas&theme=shades-of-purple&hide_border=false)](https://github.com/David-mwas/github-readme-stats)
 
-## </Latest Tweet>
+## 🏆 GitHub Trophies
 
-[![](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)](https://gtce.itsvg.in/api?username=DavidMwas2_0&theme=shades-of-purple)
+![](https://github-profile-trophy.vercel.app/?username=David-mwas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
