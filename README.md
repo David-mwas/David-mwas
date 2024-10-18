@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm David Mwangi</h1>
+
 <h3 align="center">A passionate frontend software developer from Kenya</h3>
+<hr/>
 
 - 🔭 I’m currently working on [MMUSTIHUB](https://ihub.mmust.ac.ke/)
 
 - 🌱 I’m currently learning **React native, Node, React, Typescript**
 
-- 👯 I’m looking to collaborate on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend)
+- 👯 I’m currently collaborating on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend)
 
 - 👨‍💻 All of my projects are available at [https://david-mwas.me](https://david-mwas.me)
 
 - 💬 Ask me about **React, Node, Expo, React-native, MERN**
 
 - 📫 How to reach me **dmwas704@gmail.com**
-
+<hr/>
 <!-- [![An image of @davidmwas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidmwas)](https://holopin.io/@davidmwas)--> 
 
 <h3 align="left">Connect with me:</h3>
