@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Mwangi</h1>
 
-<h3 align="center">A passionate frontend software developer from Kenya</h3>
+<h3 align="center">A frontend software developer from Kenya</h3>
 <hr/>
 
 - 🔭 I’m currently working on [MMUSTIHUB](https://ihub.mmust.ac.ke/)
