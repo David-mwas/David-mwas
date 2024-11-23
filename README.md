@@ -3,11 +3,11 @@
 <h3 align="center">A frontend software developer from Kenya</h3>
 <hr/>
 
-- 🔭 I’m currently working on [MMUSTIHUB](https://ihub.mmust.ac.ke/),[selify])
+- 🔭 I’m currently working on [MMUSTIHUB](https://ihub.mmust.ac.ke/), [Selify](https://github.com/David-mwas/sellify)
 
 - 🌱 I’m currently learning **React native, Node, React, Typescript**
 
-- 👯 I’m currently collaborating on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend),[selify](https://github.com/David-mwas/sellify)
+- 👯 I’m currently collaborating on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend), [Selify](https://github.com/David-mwas/sellify)
 
 - 👨‍💻 All of my projects are available at [https://david-mwas.me](https://david-mwas.me)
 
