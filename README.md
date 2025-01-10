@@ -37,11 +37,11 @@
 
 ### 🔝 </Top Contributed Repo>
 
-![](https://github-contributor-stats.vercel.app/api?username=David-mwas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=David-mwas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## ⏳ </Waka Time>
 
-[![David-mwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidMwas&theme=shades-of-purple&hide_border=false)](https://github.com/David-mwas/github-readme-stats)
+[![David-mwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidMwas&theme=shades-of-purple&hide_border=false)](https://github.com/David-mwas/github-readme-stats) -->
 
 ## 🏆 </GitHub Trophies>
 
@@ -53,11 +53,11 @@
 
 ---
 
-### 😂 </Random Dev Meme>
+<!--### 😂 </Random Dev Meme>
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+--- -->
 
 [![](https://visitcount.itsvg.in/api?id=David-mwas&icon=0&color=6)](https://visitcount.itsvg.in)
 
