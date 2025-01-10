@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MMUSTIHUB](https://ihub.mmust.ac.ke/), [Selify](https://github.com/David-mwas/sellify)
 
-- 🌱 I’m currently learning **React native, Node, React, Typescript**
+- 🌱 I’m currently learning **React native, GO, Typescript**
 
 - 👯 I’m currently collaborating on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend), [Selify](https://github.com/David-mwas/sellify)
 
