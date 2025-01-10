@@ -35,9 +35,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-mwas&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-mwas&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 </Top Contributed Repo>
+<!-- ### 🔝 </Top Contributed Repo>
 
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=David-mwas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=David-mwas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## ⏳ </Waka Time>
 
