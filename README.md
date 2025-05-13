@@ -9,7 +9,7 @@
 
 - 👯 I’m currently collaborating on [Fololimo](https://github.com/Mmust-Ihub/follolimo-frontend), [Selify](https://github.com/David-mwas/sellify)
 
-- 👨‍💻 All of my projects are available at [https://david-mwas.me](https://david-mwas.me)
+- 👨‍💻 All of my projects are available at [https://david-mwas.vercel.app](https://david-mwas.vercel.app)
 
 - 💬 Ask me about **React, Node, Expo, React-native, MERN**
 
