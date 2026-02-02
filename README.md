@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Mwangi</h1>
 
-<h3 align="center">Full-Stack Software Developer (Web & Mobile) · Kenya</h3>
+<h3 align="center">Web & Mobile Developer · Kenya</h3>
 
 <p align="center">
-I build scalable, production-ready web and mobile applications using modern JavaScript frameworks and reliable backend systems.
+I create responsive and user-friendly web and mobile applications using modern JavaScript frameworks and REST APIs.
 </p>
 
 ---
@@ -12,29 +12,30 @@ I build scalable, production-ready web and mobile applications using modern Java
 
 * Build responsive web applications with **React** and **Next.js**
 * Develop cross-platform mobile apps using **React Native** and **Expo**
-* Design backend services with **Node.js**, **PHP**, and **Golang**
-* Work with relational and NoSQL databases, primarily **PostgreSQL** and **MongoDB**
-* Deploy and maintain applications using modern tooling and cloud platforms
+* Work with backend services and APIs using **Node.js** and **PHP**
+* Handle data with **PostgreSQL** and **MongoDB**
+* Deploy and maintain applications using modern tools and cloud platforms
 
 ---
 
-### 🔭 Current Work
+### 🔭 Projects
 
-* **MMUST iHub** – Web platform development
-* **Sellify** – Full-stack marketplace application
+* **Sellify** – Marketplace platform helping users declutter and sell items. Built with React, TypeScript, and Vite.  
+* **Gen Shoe Commerce** – Modern eCommerce platform for selling shoes. Developed with React, Vite, Tailwind CSS, and Supabase.  
+* **Create Node Backend** – NPM package to quickly scaffold Node.js backend projects with optional databases. TypeScript-first.  
 
 ### 👯 Collaboration
 
-* **Fololimo** – Frontend collaboration
-* **Sellify** – Ongoing full-stack development
+* **Fololimo** – Frontend development collaboration on AI & IoT agriculture platform  
+* **KenBest Logistics** – Web platform collaboration for a logistics system
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Learning & Growth
 
-* Advanced **React Native** patterns
-* **Golang** for backend systems
-* **TypeScript** for scalable frontend and backend codebases
+* Advanced **React Native** patterns  
+* **Golang** for backend development  
+* **TypeScript** for scalable code
 
 ---
 
@@ -44,8 +45,8 @@ I build scalable, production-ready web and mobile applications using modern Java
 
 ### 💬 Ask Me About
 
-* React, Next.js, React Native, Expo
-* Node.js, MERN stack
+* React, Next.js, React Native, Expo  
+* Node.js and REST APIs  
 * PostgreSQL & application architecture
 
 ### 📫 Contact
@@ -67,27 +68,25 @@ I build scalable, production-ready web and mobile applications using modern Java
 
 ## 💻 Tech Stack
 
-**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS
-**Backend:** Node.js, PHP, Golang
-**Databases:** PostgreSQL, MongoDB
-**Tools:** Git, GitHub, Vite, Firebase, Vercel
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS  
+**Backend:** Node.js, PHP  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Vercel, Firebase
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=David-mwas\&theme=shades-of-purple\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-mwas\&theme=shades-of-purple\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-mwas\&theme=shades-of-purple\&hide_border=false\&layout=compact\&langs_count=10)
+![](https://github-readme-stats.vercel.app/api?username=David-mwas&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=David-mwas&theme=shades-of-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-mwas&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=10)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=David-mwas\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=David-mwas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-> *Focused on clean code, scalable systems, and shipping real products.*
-
-![](https://visitcount.itsvg.in/api?id=David-mwas\&icon=0\&color=6)
+> *Focused on clean code, learning, and shipping practical projects.*
