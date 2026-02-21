@@ -1,4 +1,4 @@
-# Hi 👋 I'm David Mwangi Wanjiru
+# Hi 👋 I'm David Mwangi
 
 **Software Developer · Kenya**
 
