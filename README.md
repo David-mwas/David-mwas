@@ -46,7 +46,7 @@ https://david-mwas.vercel.app
 ---
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy-tawny.vercel.app/?username=David-mwas&theme=onedarkpro
+
 
 ![](https://github-profile-trophy-tawny.vercel.app/?username=David-mwas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
