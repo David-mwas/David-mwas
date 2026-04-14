@@ -1,7 +1,5 @@
 # Hi 👋 I'm David Mwangi
 
-**Software Developer · Kenya**
-
 ---
 
 ## 🚀 Tech Stack
