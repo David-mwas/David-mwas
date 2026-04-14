@@ -1,6 +1,5 @@
 # Hi 👋 I'm David Mwangi
 
----
 
 ## 🚀 Tech Stack
 
