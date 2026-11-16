@@ -3,7 +3,7 @@
 
 ## 🚀 Tech Stack
 
-**Frontend:** React, Next.js, React Native, Expo, Tailwind  
+**Frontend:** React, Next.js, React Native, Expo, Tailwind , Kotlin  
 **Backend:** Node.js, Go, PHP Laravel  
 **Database:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, Vercel, Firebase  
